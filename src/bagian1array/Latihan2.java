@@ -30,3 +30,4 @@ public class Latihan2 {
         System.out.println("Rata-rata : " + rata);
     }
 }
+ 
