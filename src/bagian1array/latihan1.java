@@ -1,7 +1,7 @@
-package ArrayArrayList;
+package bagian1array;
 
 
-public class bagian1array {
+public class Latihan1 {
     public static void main(String[] args) {
        
         int[] nilai = new int[5];
