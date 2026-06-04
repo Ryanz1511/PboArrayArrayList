@@ -26,4 +26,4 @@ public class Mahasiswa {
     public boolean lulus() {
         return nilai >= 60;
     }
-}
+}git push --force origin main
